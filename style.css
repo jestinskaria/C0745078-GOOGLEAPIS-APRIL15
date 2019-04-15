@@ -1,0 +1,13 @@
+html,body{
+    height:100%;
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+    font-size: 16px; 
+    line-height: 32px;
+}
+#map_canvas1,#map_canvas2,#map_canvas3{
+    width:33.33%;
+    height:100%;
+    float: left;
+}
